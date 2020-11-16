@@ -1,9 +1,6 @@
 /*
-Assignment number  :  9
 File Name  :  LanguageModel.java
 Name  :  Yoav Aharoni
-Student ID : 000802947
-Email : yoav.aharoni@post.idc.ac.il 
 */
 import java.util.HashMap;
 		import java.util.LinkedList;
